@@ -1,7 +1,6 @@
 import turtle
 import colorsys
-
-t = turtle.Turble()
+t = turtle.Turtle()
 turtle.Screen().bgcolor("black")
 t.pensize(2)
 t.speed(10)
